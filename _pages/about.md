@@ -9,8 +9,8 @@ profile:
   image: swimmingwang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Urbana, IL, USA</p>
-    <p>Hometown: NanJing, Jiangsu, China</p>
+    <p>Now: Urbana, IL, USA</p>
+    <p>Hometown: Nanjing, Jiangsu, China</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
